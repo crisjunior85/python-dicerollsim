@@ -1,1 +1,1 @@
-# python-dicerollsim
+simulate dice game
