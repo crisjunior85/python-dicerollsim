@@ -79,7 +79,7 @@ def roll_dice():
 
         print("dice rolled: {} and {}".format(dice1, dice2))
         print("\n".join(dice_drawing[dice1]))
-        print("\n".join(dice_drawing[dice1])) 
+        print("\n".join(dice_drawing[dice2])) 
               
         roll = input("Roll again? (Yes/No): ")
 
